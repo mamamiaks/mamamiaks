@@ -7,15 +7,9 @@
   </p>
 
   <p>
-    <a href="https://github.com" target="_blank">
-      <img src="https://shields.io" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" />
-    </a>
-    <a href="mailto:emailkamu@gmail.com">
-      <img src="https://shields.io" alt="Email" />
-    </a>
+    <a href="https://github.com"><b>GitHub</b></a> •
+    <a href="https://linkedin.com"><b>LinkedIn</b></a> •
+    <a href="mailto:emailkamu@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
@@ -33,10 +27,17 @@
 ### 🛠️ Bahasa Pemrograman & Framework
 
 <div align="center">
-  <img src="https://skillicons.dev" alt="Tech Stack Theo Nitbani" />
+  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="TypeScript / TSX" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="PHP" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Python" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Java" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="C++" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Next.js" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Laravel" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="React Native" width="45" height="45" />
 </div>
-
-*(Keterangan: Ikon React di atas mewakili ekosistem **React / React Native**, dan TS mewakili **TypeScript / TSX**)*
 
 ---
 
