@@ -7,9 +7,9 @@
   </p>
 
   <p>
-    <a href="https://github.com"><b>GitHub</b></a> •
-    <a href="https://linkedin.com"><b>LinkedIn</b></a> •
-    <a href="mailto:emailkamu@gmail.com"><b>Email</b></a>
+    🔗 <a href="https://github.com"><b>GitHub</b></a> &nbsp;|&nbsp;
+    💼 <a href="https://linkedin.com"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+    ✉️ <a href="mailto:emailkamu@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
@@ -27,16 +27,16 @@
 ### 🛠️ Bahasa Pemrograman & Framework
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="TypeScript / TSX" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="PHP" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Python" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Java" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="C++" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Next.js" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Laravel" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="React Native" width="45" height="45" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript / TSX" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="PHP" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Java" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="C++" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Next.js" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Laravel" />
+  <img src="https://jsdelivr.net" width="45" height="45" alt="React Native" />
 </div>
 
 ---
@@ -48,12 +48,3 @@
 | 🌐 **Web Development** | Membangun aplikasi web full-stack modern & REST API menggunakan **Next.js (TSX/JS)**, **Laravel (PHP)**, dan **HTML**. |
 | 📱 **Mobile Development** | Mengembangkan aplikasi Android & iOS lintas platform yang responsif dengan **React Native**. |
 | 🖥️ **Desktop Development** | Merancang aplikasi desktop dengan performa tinggi menggunakan **C++**, **Java**, dan **Python**. |
-
----
-
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
