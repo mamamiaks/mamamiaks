@@ -26,18 +26,8 @@
 
 ### 🛠️ Bahasa Pemrograman & Framework
 
-<div align="center">
-  <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript / TSX" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="PHP" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Java" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="C++" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Next.js" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Laravel" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="React Native" />
-</div>
+* **Bahasa Pemrograman:** `HTML5` • `JavaScript` • `TypeScript (TSX)` • `PHP` • `Python` • `Java` • `C++`
+* **Framework & Library:** `Next.js` • `Laravel` • `React Native`
 
 ---
 
